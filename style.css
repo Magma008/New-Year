@@ -494,7 +494,7 @@
 
 /* ------------ Responsive Section --------------------- */
 
-@media screen and (min-width: 350px) {
+@media screen and (min-width: 310px) {
     .icon {
         display: flex;
     }
@@ -564,10 +564,6 @@
     .texts {
         gap: 15px;
         padding: 20px;
-    }
-
-    .bottom_part {
-        min-height: 110vh;
     }
 }
 
